@@ -1,0 +1,52 @@
+
+body{
+  background-color:red;
+}
+  #result {
+  font-size: 0%;
+}
+#ready{
+font-family:"Algerian";
+background-color:black;
+color:white;
+font-size:20px;
+}
+.show1{
+  font-family:"Algerian";
+  font-size:40px;
+}
+#butto{
+  font-family:"Algerian";
+  background-color:black;
+  color:white;
+  font-size:15px;
+}
+#button{
+  font-family:"Algerian";
+  background-color:black;
+  color:white;
+  font-size:20px;
+}
+.message{
+  font-family:"Lucida Calligraphy";
+  font-size:40px;
+  
+}
+#opt{
+  font-size:0%;
+}
+.opti{
+  font-family:"Arial";
+  background-color:white;;
+  color:red;
+  font-size:20px;
+
+}
+#para{
+  font-family:"Lucida Calligraphy";
+  font-size:25px;
+}
+#foot{
+  position:relative;
+  bottom:0px;
+}
